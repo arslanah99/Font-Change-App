@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#fontChangebutton {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#finalResult {
+  font-size: 25px;
+}
